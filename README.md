@@ -3,7 +3,6 @@
 Data from: Iacarella, J.C., Paterson, K., Potapova, A., and Weller, J.D. 2025. Geospatial Indicators and Metrics for Threats to Fish Habitat in the Fraser River Basin with Thompson-Nicola as a Case Study.
 DFO Can. Sci. Advis. Sec. Res. Doc. 2025/013. xiii + 126 p. https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/4130617x.pdf
 
-Please refer to the report above for detailed methods or contact Keegan.paterson@dfo-mpo.gc.ca for questions. 
 
 Individual and Cumulative threat scores were estimated for each BC Freshwater Atlas (BC FWA) stream “reach” within the Fraser River Basin (FRB) (i.e. fwa_watershed_code begins with 100). 
 Stream “reaches” are identified by their “linear_feature_id”. 
